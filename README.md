@@ -8,7 +8,7 @@
   <a href="https://github.com/72897" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
-  <a href="mailto:kunalsingh.dev10@gmail.com" target="_blank">
+  <a href="mailto:kunalsingh203001@gmail.com" target="_blank">
     <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -19,10 +19,10 @@
 
 - 👨‍🎓 3rd-year B.Tech student at **Gautam Buddha University**
 - 💻 Proficient in **MERN Stack**, **Firebase**, **Next.js**, and **ShadCN**
-- 🤖 Exploring **AI integrations** using **Google Gemini** and **Vapi**
+- 🤖 Exploring **AI** 
 - 🔭 Currently working on: **AItern - An AI-powered Mock Interview Platform**
-- 🌱 Learning more about **cloud functions, TypeScript**, and **system design**
-- 📫 Reach me at: `kunalsingh.dev10@gmail.com`
+- 🌱 Learning more about **cloud functions, AI**, and **Web3**
+- 📫 Reach me at: `kunalsingh203001@gmail.com`
 
 ---
 
@@ -55,7 +55,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=radical" alt="GitHub Stats" />
+ 
   <img src="https://streak-stats.demolab.com?user=72897&theme=radical&hide_border=false" alt="GitHub Streak" />
 </p>
 

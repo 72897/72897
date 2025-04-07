@@ -1,88 +1,75 @@
 <h1 align="center">Hi 👋, I'm Kunal Singh</h1>
-<h3 align="center">B.Tech CSE Student | Full Stack Developer | AI Enthusiast</h3>
+<h3 align="center">A passionate full-stack web developer skilled in the MERN stack, Firebase, and AI integrations.</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kunal-singh-454368289/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Kunal_Singh-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:kunalsingh203001@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-kunalsingh203001@gmail.com-red?logo=gmail&style=for-the-badge" alt="Email">
+  <a href="https://github.com/72897" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
+  <a href="mailto:kunalsingh.dev10@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+### 🚀 About Me
+
+- 👨‍🎓 3rd-year B.Tech student at **Gautam Buddha University**
+- 💻 Proficient in **MERN Stack**, **Firebase**, **Next.js**, and **ShadCN**
+- 🤖 Exploring **AI integrations** using **Google Gemini** and **Vapi**
+- 🔭 Currently working on: **AItern - An AI-powered Mock Interview Platform**
+- 🌱 Learning more about **cloud functions, TypeScript**, and **system design**
+- 📫 Reach me at: `kunalsingh.dev10@gmail.com`
+
+---
+
+### 🛠️ Technologies & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,mongodb,firebase,tailwind,html,css,git,github,vscode,vercel" />
+</p>
+
+---
+
+### 📌 Featured Project
+
+#### 🧠 [AItern – Mock Interview Platform](https://mock-interview-platform-three.vercel.app/)
+> A voice-based AI-powered platform that helps users practice real-time interviews using Google Gemini + Vapi Voice AI.
+
+**Tech Stack:** `Next.js` · `Firebase Auth & Firestore` · `Google Gemini API` · `Vapi AI` · `ShadCN UI`
+
+<p>
   <a href="https://mock-interview-platform-three.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Live Demo-AItern-blueviolet?style=for-the-badge" alt="Live Demo">
+    <img alt="AItern Preview" src="https://img.shields.io/badge/Live-Demo-brightgreen?style=flat&logo=vercel" />
+  </a>
+  <a href="https://github.com/72897/mock-interview-platform" target="_blank">
+    <img alt="Repo" src="https://img.shields.io/badge/Source-Code-black?style=flat&logo=github" />
   </a>
 </p>
 
 ---
 
-## 🧑‍💻 About Me
-
-- 🎓 3rd-year B.Tech student at **Gautam Buddha University**
-- 🌟 Passionate about building full-stack web apps with real-world impact
-- 🎯 Currently diving into **AI integrations**, system design, and cloud deployment
-- 🧠 Exploring Generative AI, automation, and scalable backend systems
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,tailwind,firebase,vite,ts,js,html,css,git,github,vercel" />
-</p>
-
----
-
-## 🚀 Featured Project
-
-### [🧠 AItern – AI Mock Interview Platform](https://mock-interview-platform-three.vercel.app/)
-> A voice-based AI mock interview tool using **Vapi**, **Google Gemini**, and **Firebase**
-
-- 🔊 Real-time interaction with an AI Interviewer
-- 📈 Instant feedback & evaluation using Gemini
-- 🌐 Built with Next.js 14, ShadCN UI, Tailwind CSS
-- 🔐 Secure login via Firebase Auth
-
-📌 [View GitHub Repo](https://github.com/72897/mock-interview-platform)
-
----
-
-## 📦 Other Projects
-
-### 📚 [Studynotion – Course Selling App](https://github.com/72897/Studynotion_course)
-> MERN stack app with role-based dashboards, course management & secure auth
-
-### 🎬 Movie Explorer
-> Browse trending films, search by genre, and check ratings
-
-- Stack: React, Context API, OMDB API
-- Features: Auth, Favorites, Search/Filter
-
----
-
-## 🏆 Achievements & Activities
-
-- 🥇 Finalist – **Hack the Hills**, **Code of the Phoenix Hackathon**
-- 👨‍💼 Virtual Internships – **Walmart USA**, **Deloitte Australia**
-- 🏅 Certified in: AWS Cloud, Generative AI (HP), Hackstreet 3.0
-- 🏁 Volunteer – **MotoGP 2023**, Broadcast and Logistics Team
-
----
-
-## 📊 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=72897&theme=radical&hide_border=false" alt="GitHub Streak" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 Let's Connect
+### 🧩 Fun Fact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/kunal-singh-454368289/)
-- 📬 Email: kunalsingh203001@gmail.com
+> "The best way to predict the future is to build it."
 
 ---
 
-> "Keep building. Keep learning. The next big thing could start with a single commit."
+Feel free to connect, collaborate, or just say hi! 😊
 

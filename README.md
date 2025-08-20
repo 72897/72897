@@ -7,92 +7,101 @@
 </p>
 
 <p align="center">
-  <em>Final-year B.Tech CSE @ Gautam Buddha University (2022–2026). GenAI + MERN developer focused on building fast, accessible products.</em>
+  <em>Final-year B.Tech CSE @ Gautam Buddha University | Generative AI + MERN Developer | Building real-world AI-first apps</em>
 </p>
 
 ---
 
-### 🔭 What I’m working on
-- Generative AI apps (RAG, prompt engineering, LLM evals) and production-ready MERN stacks.
-- Clean, testable APIs, latency reduction, and great UX.
+### 🔭 Currently Working On
+- **Generative AI applications** (RAG, prompt optimization, embeddings, LLM evals).  
+- **Full-stack projects** using **Next.js, Node.js, MongoDB, Firebase**.  
+- **AI integration in production workflows** for speed + accuracy.  
 
 ---
 
-### 💼 Experience (highlights)
+### 💼 Experience
 - **Engineering Intern — Thales, Noida (Jun 2025 – Jul 2025)**  
-  Built a Generative AI solution using Google Gemini & OpenAI; optimized prompts and inference pipelines (≈30% relevance lift) and reduced processing latency by ≈25% with Python/TensorFlow; delivered a demo-ready capstone with docs and feedback integration. :contentReference[oaicite:0]{index=0} :contentReference[oaicite:1]{index=1}
+  ➝ Built a Generative AI pipeline (Gemini + OpenAI) → +30% output relevance, -25% latency.  
+  ➝ Delivered demo-ready capstone with full documentation.  
 
-- **Full-Stack Developer Intern — MI Matdar, Maharashtra (Feb 2025 – Apr 2025)**  
-  React + Tailwind frontend (lazy loading, 5+ UI/UX fixes), Node/Express REST APIs (≈40% faster), 95% test coverage, MongoDB schema & query optimization handling 100+ users (≈35% faster reads). :contentReference[oaicite:2]{index=2} :contentReference[oaicite:3]{index=3}
-
----
-
-### 🛠️ Tech Stack
-**Languages:** Python, C++ :contentReference[oaicite:4]{index=4} :contentReference[oaicite:5]{index=5}  
-**Frontend:** Next.js, React, TypeScript, Tailwind CSS :contentReference[oaicite:6]{index=6}  
-**Backend:** Node.js, Express, REST APIs, MongoDB, SQL/Firebase :contentReference[oaicite:7]{index=7}  
-**AI/ML:** LangChain, Hugging Face, TensorFlow, PyTorch; RAG, embeddings, fine-tuning, vector DBs (ChromaDB) :contentReference[oaicite:8]{index=8}  
-**Tools:** Git/GitHub, Postman, Vercel/Netlify :contentReference[oaicite:9]{index=9}
+- **Full-Stack Developer Intern — MI Matdar (Feb 2025 – Apr 2025)**  
+  ➝ Built React + Tailwind frontend (lazy loading, 5+ UI/UX fixes).  
+  ➝ Optimized APIs → ~40% faster, 95% test coverage.  
+  ➝ Designed MongoDB schema, improved query response ~35%.  
 
 ---
 
 ### 🚀 Featured Projects
-- **StudyMate — GenAI Study Assistant**  
-  RAG-powered PDF Q&A on ChromaDB; achieves ~40% faster learning/revision; boosts accessibility to knowledge by ~70%.  
-  *Tech:* Python, LangChain, Groq, Gradio, ChromaDB, HF  
-  🔗 Live: https://huggingface.co/spaces/kunal267/StudyMate :contentReference[oaicite:10]{index=10}
+- **StudyMate — AI Study Assistant**  
+  RAG-powered PDF Q&A with ChromaDB → boosts learning speed ~40%.  
+  🔗 [Live](https://huggingface.co/spaces/kunal267/StudyMate)  
 
 - **Travel Planner — AI Trip Itineraries**  
-  Personalized, time-optimized itineraries; reduces planning effort by ~70% and improves recommendation accuracy by ~40%.  
-  *Tech:* Python, LangChain, Groq, Gradio  
-  🔗 Live: https://huggingface.co/spaces/kunal267/Travel_Planner :contentReference[oaicite:11]{index=11}
+  Smart itineraries → planning time cut by ~70%.  
+  🔗 [Live](https://huggingface.co/spaces/kunal267/Travel_Planner)  
 
-- **AlphaCare — AI-Powered Healthcare Chatbot**  
-  100% voice-enabled checkups via Vapi + Gemini; improved interaction flow by ~45% and engagement by ~35%; helped 10+ early users.  
-  *Tech:* Next.js, React, Node, Firebase, Tailwind, Gemini, TypeScript  
-  🔗 Live: https://alpha-care.vercel.app/ :contentReference[oaicite:12]{index=12}
+- **AlphaCare — Healthcare Chatbot**  
+  100% voice-enabled checkups → +45% engagement.  
+  🔗 [Live](https://alpha-care.vercel.app/)  
 
-- **Course Selling Application**  
-  Role-based dashboards; built ~70% of APIs/UI; API response ↓ ~30%, load speed ↑ ~25%; supports JWT sessions and low-bandwidth devices.  
-  *Tech:* React, Node, Express, MongoDB, Tailwind  
-  🔗 Live: https://studynotion-course.vercel.app/ :contentReference[oaicite:13]{index=13}
+- **Course Selling App**  
+  Role-based dashboards, JWT sessions, optimized APIs.  
+  🔗 [Live](https://studynotion-course.vercel.app/)  
+
+---
+
+### 🛠️ Tech Stack
+**Languages:** Python, C++  
+**Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+**Backend:** Node.js, Express, REST APIs, MongoDB, Firebase  
+**AI/ML:** LangChain, Hugging Face, TensorFlow, PyTorch, RAG, ChromaDB  
+**Tools:** Git/GitHub, Postman, Vercel, Netlify  
 
 ---
 
 ### 🎓 Education
-**B.Tech — Computer Science & Engineering (2022–2026)**, Gautam Buddha University  
-Relevant coursework: ML, AI, DSA, OOPs, NLP / DBMS, OS. :contentReference[oaicite:14]{index=14} :contentReference[oaicite:15]{index=15}
+**B.Tech — Computer Science & Engineering (2022–2026)**  
+*Gautam Buddha University*  
 
 ---
 
 ### 📜 Certifications
-Google Cloud GenAI, AWS Cloud Practitioner Essentials, Advanced Software Engineering (Walmart USA — Forage), Deloitte Australia Technology (Forage), Postman, Generative AI (HP Life). :contentReference[oaicite:16]{index=16} :contentReference[oaicite:17]{index=17}
-
----
-
-### 🏆 Achievements & Activities
-- Finalist in 3+ hackathons (team lead). :contentReference[oaicite:18]{index=18} :contentReference[oaicite:19]{index=19}  
-- Volunteered at MotoGP Bharat 2023 (event & logistics). :contentReference[oaicite:20]{index=20} :contentReference[oaicite:21]{index=21}
+Google Cloud GenAI | AWS Cloud Practitioner | Deloitte Tech (Forage) | Walmart SWE (Forage) | HP Life Generative AI | Postman API  
 
 ---
 
 ### 📈 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&hide_title=true" alt="GitHub Stats" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact" alt="Top Languages" />
-</p>
-<p>
-  <img src="https://streak-stats.demolab.com?user=72897" alt="GitHub Streak" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=72897&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 ---
 
-### 🤝 Connect
-- 📧 kunalsingh203001@gmail.com  
-- 🔗 LinkedIn: /in/kunal-singh-454368289  
-- 🧑‍💻 GitHub: 72897
+### 🏆 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&margin-w=15&margin-h=15&column=7" />
+</p>
 
-<!-- Footer -->
-<p align="center">Thanks for visiting! ⭐️ Star my repos if you find them useful.</p>
+---
+
+### 📰 Latest Activity
+<!-- BLOG-POST-LIST:START -->
+- 🚀 Working on Generative AI + MERN projects  
+- 📝 Preparing AI/ML + Cloud writeups  
+- 🔍 Exploring RAG, embeddings, and multimodal AI  
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 📊 Visitors
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=72897&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
+
+---
+
+<p align="center">⭐️ If you like my projects, consider giving them a star!</p>

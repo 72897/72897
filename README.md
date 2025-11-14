@@ -1,8 +1,19 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=435&lines=Hi+there!+I'm+Kunal+Singh;Final-year+B.Tech+CSE+%40+GBU;Generative+AI+%2B+MERN+Developer;Building+AI-first+apps+that+scale" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&random=false&width=600&lines=🌟+Welcome+to+my+GitHub!;Hi+there!+I'm+Kunal+Singh;Final-Year+B.Tech+CSE+%40+Gautam+Buddha+University;Generative+AI+%26+MERN+Enthusiast;Building+AI-First+Apps+That+Transform;Let's+Create+Something+Amazing+Together!+🚀" alt="Typing SVG" />
   <br><br>
+  
+  <!-- Profile Picture -->
+  <img src="https://avatars.githubusercontent.com/u/72897?v=4" alt="Profile Picture" width="150" style="border-radius:50%; border: 3px solid #0EA5E9;" />
+  <br><br>
+  
+  <samp>
+    <b>💡 Fun Fact:</b> I once optimized an LLM prompt to generate poetry about code—turns out, algorithms dream in haikus! 📜
+  </samp>
+  <br><br>
+  
+  <!-- Social Badges -->
   <a href="https://github.com/72897">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/kunal-singh-454368289">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -10,40 +21,59 @@
   <a href="mailto:kunalsingh203001@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://twitter.com/yourhandle"> <!-- Add your Twitter -->
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
   <br><br>
-  <img src="https://komarev.com/ghpvc/?username=72897&style=for-the-badge&color=0EA5E9" alt="Profile views" />
+  
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=72897&style=for-the-badge&color=0EA5E9&label=Profile%20Views" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Location-Greater%20Noida%2C%20India-0D1117?style=for-the-badge&logo=location&logoColor=white" alt="Location" />
+  <img src="https://img.shields.io/badge/Open%20to-Collaborations%20%26%20Opportunities-EA4B2A?style=for-the-badge&logo=handshake&logoColor=white" alt="Open to Collab" />
 </div>
 
 ---
 
-### 👨‍💻 About Me
-Final-year B.Tech in Computer Science & Engineering at **Gautam Buddha University** (2022–2026).  
-Passionate about leveraging **Generative AI** to build intelligent, user-centric applications.  
-Expert in **MERN stack** for full-stack development, with a focus on seamless AI integrations.  
-Based in Greater Noida, India. Open to collaborations on AI-driven projects!  
+### 👨‍💻 About Kunal
+<div align="center">
+  <img src="https://img.shields.io/badge/Final-Year%20B.Tech%20CSE-20232A?style=for-the-badge&logo=university&logoColor=white" alt="Education" />
+  <img src="https://img.shields.io/badge/Generative%20AI%20%26%20MERN-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="Focus" />
+  <img src="https://img.shields.io/badge/Building%20AI-First%20Apps-FF6B35?style=for-the-badge&logo=openai&logoColor=white" alt="Passion" />
+</div>
 
-**🎯 What excites me:**  
-- Crafting RAG pipelines and optimizing LLMs for real-world impact.  
-- Deploying scalable web apps that blend creativity with efficiency.  
-- Contributing to open-source and mentoring on AI/ML topics.  
+Final-year **B.Tech in Computer Science & Engineering** at *Gautam Buddha University* (2022–2026).  
+A **Generative AI + Full-Stack Developer** passionate about fusing cutting-edge AI with robust web architectures to solve real-world problems.  
+
+**🎯 Core Interests:**  
+- 🔮 Designing RAG pipelines & fine-tuning LLMs for hyper-personalized experiences.  
+- ⚡ Scaling MERN apps with AI integrations that deliver 10x efficiency.  
+- 🌍 Open-source contributions & mentoring aspiring devs in AI/ML.  
+
+> *"Code is poetry; AI is the muse."* — Kunal Singh  
 
 ---
 
-### 🚀 Currently Working On
+### 🚀 What I'm Building Right Now
 <div align="center">
-  <table>
+  <table border="0" cellspacing="10">
     <tr>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Generative%20AI-EA4B2A?style=for-the-badge&logo=openai&logoColor=white" />
-        <br>Generative AI Apps<br>(RAG, Embeddings, LLM Evals)
+      <td align="center" valign="middle">
+        <img src="https://img.shields.io/badge/GenAI%20Pipelines-EA4B2A?style=for-the-badge&logo=openai&logoColor=white" height="30" />
+        <br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/genai.gif?raw=true" alt="GenAI GIF" width="120" /> <!-- Upload a relevant GIF to your repo -->
+        <br>RAG, Embeddings & LLM Evals
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-        <br>Full-Stack Projects<br>(Next.js, Node.js, MongoDB)
+      <td align="center" valign="middle">
+        <img src="https://img.shields.io/badge/Full-Stack%20Magic-000000?style=for-the-badge&logo=next.js&logoColor=white" height="30" />
+        <br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/mern.gif?raw=true" alt="MERN GIF" width="120" /> <!-- Upload GIF -->
+        <br>Next.js + Node.js + MongoDB
       </td>
-      <td align="center">
-        <img src="https://img.shields.io/badge/AI%20Integration-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" />
-        <br>Production AI Workflows<br>(Speed + Accuracy Boosts)
+      <td align="center" valign="middle">
+        <img src="https://img.shields.io/badge/AI%20in%20Prod-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white" height="30" />
+        <br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/ai-workflow.gif?raw=true" alt="AI Workflow GIF" width="120" /> <!-- Upload GIF -->
+        <br>Optimizing for Speed & Accuracy
       </td>
     </tr>
   </table>
@@ -51,60 +81,64 @@ Based in Greater Noida, India. Open to collaborations on AI-driven projects!
 
 ---
 
-### 💼 Professional Experience
-#### Engineering Intern  
+### 💼 Professional Journey
+<div align="center">
+  <img src="https://img.shields.io/badge/Internships%20Completed-2-0D1117?style=for-the-badge&logo=briefcase&logoColor=white" alt="Experience Count" />
+</div>
+
+#### 🛡️ Engineering Intern  
 **Thales, Noida** | Jun 2025 – Jul 2025  
-- Developed a Generative AI pipeline using Gemini + OpenAI APIs, achieving **+30% output relevance** and **-25% latency**.  
-- Delivered a demo-ready capstone project with comprehensive documentation and deployment scripts.  
+- Engineered a **Gemini + OpenAI** GenAI pipeline: **+30% relevance**, **-25% latency**.  
+- Shipped a production-ready capstone with docs, CI/CD, & deployment playbook.  
+- Collaborated cross-functionally to integrate AI into legacy systems.  
 
-#### Full-Stack Developer Intern  
+#### 🔧 Full-Stack Developer Intern  
 **MI Matdar** | Feb 2025 – Apr 2025  
-- Engineered React + Tailwind frontend with lazy loading and 5+ UI/UX enhancements for improved user experience.  
-- Optimized backend APIs for **~40% faster response times** and achieved **95% test coverage** using Jest.  
-- Designed efficient MongoDB schemas, reducing query response by **~35%**.  
+- Revamped **React + Tailwind** UI: Lazy loading + 5+ UX wins for seamless flows.  
+- Turbocharged APIs: **~40% speed boost**, **95% Jest coverage**.  
+- Architected **MongoDB schemas**: **~35% query optimization**, scalable to 10k+ users.  
 
 ---
 
-### 🔥 Featured Projects
+### 🔥 Spotlight Projects
 <div align="center">
-  <table>
+  <table border="0" cellspacing="15">
     <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%" valign="top">
         <a href="https://huggingface.co/spaces/kunal267/StudyMate">
-          <img src="https://img.shields.io/badge/StudyMate-AI%20Study%20Assistant-0D1117?style=for-the-badge&logo=huggingface&logoColor=white" />
-        </a><br>
-        **StudyMate**<br>RAG-powered PDF Q&A tool with ChromaDB integration.<br>Boosts learning efficiency by ~40%.<br>
-        <small>Tech: LangChain, Hugging Face, Python</small><br><br>
-        [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/studymate) <!-- Replace with actual repo -->
+          <img src="https://img.shields.io/badge/StudyMate-📚%20AI%20Tutor-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/studymate-screenshot.png?raw=true" alt="StudyMate Preview" width="200" /> <!-- Upload screenshot -->
+        <br><b>StudyMate</b><br>RAG-PDF Q&A with ChromaDB<br><small>~40% faster learning</small><br>
+        <img src="https://img.shields.io/badge/Tech-LangChain%2C%20Python-3776AB?style=flat-square&logo=python&logoColor=white" /><br>
+        [![Repo](https://img.shields.io/badge/Repo-%F0%9F%9A%80-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/studymate) <!-- Actual repo -->
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%" valign="top">
         <a href="https://huggingface.co/spaces/kunal267/Travel_Planner">
-          <img src="https://img.shields.io/badge/Travel%20Planner-AI%20Itineraries-0D1117?style=for-the-badge&logo=react&logoColor=white" />
-        </a><br>
-        **Travel Planner**<br>AI-driven trip itineraries generator.<br>Cuts planning time by ~70%.<br>
-        <small>Tech: Next.js, OpenAI, Node.js</small><br><br>
-        [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/travel-planner) <!-- Replace with actual repo -->
+          <img src="https://img.shields.io/badge/Travel%20Planner-✈️%20AI%20Itineraries-0077B5?style=for-the-badge&logo=react&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/travel-planner-screenshot.png?raw=true" alt="Travel Planner Preview" width="200" /> <!-- Upload -->
+        <br><b>Travel Planner</b><br>Smart AI itineraries<br><small>~70% time savings</small><br>
+        <img src="https://img.shields.io/badge/Tech-Next.js%2C%20OpenAI-000000?style=flat-square&logo=next.js&logoColor=white" /><br>
+        [![Repo](https://img.shields.io/badge/Repo-%F0%9F%9A%80-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/travel-planner)
       </td>
-      <td align="center" width="33%">
+      <td align="center" width="25%" valign="top">
         <a href="https://alpha-care.vercel.app/">
-          <img src="https://img.shields.io/badge/AlphaCare-Healthcare%20Chatbot-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a><br>
-        **AlphaCare**<br>Voice-enabled healthcare chatbot.<br>Increases engagement by +45%.<br>
-        <small>Tech: React, Firebase, TensorFlow</small><br><br>
-        [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/alphacare) <!-- Replace with actual repo -->
+          <img src="https://img.shields.io/badge/AlphaCare-🩺%20Voice%20Bot-38B2AC?style=for-the-badge&logo=vercel&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/alphacare-screenshot.png?raw=true" alt="AlphaCare Preview" width="200" /> <!-- Upload -->
+        <br><b>AlphaCare</b><br>Voice-enabled health chatbot<br><small>+45% user engagement</small><br>
+        <img src="https://img.shields.io/badge/Tech-React%2C%20Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" /><br>
+        [![Repo](https://img.shields.io/badge/Repo-%F0%9F%9A%80-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/alphacare)
       </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
+      <td align="center" width="25%" valign="top">
         <a href="https://studynotion-course.vercel.app/">
-          <img src="https://img.shields.io/badge/Course%20Selling%20App-MERN%20E-commerce-0D1117?style=for-the-badge&logo=mongodb&logoColor=white" />
-        </a><br>
-        **Course Selling App**<br>Full-stack e-learning platform with role-based dashboards.<br>
-        <small>Tech: MERN, JWT, MongoDB</small><br><br>
-        [![Repo](https://img.shields.io/badge/GitHub-Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-username/course-selling-app) <!-- Replace with actual repo -->
-      </td>
-      <td align="center" width="33%" colspan="2">
-        <!-- Add more if needed -->
+          <img src="https://img.shields.io/badge/Course%20App-🎓%20E-Learning-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+        </a><br><br>
+        <img src="https://github.com/kunal267/kunal267/blob/main/assets/course-app-screenshot.png?raw=true" alt="Course App Preview" width="200" /> <!-- Upload -->
+        <br><b>Course Selling App</b><br>MERN e-learning platform<br><small>Role-based dashboards</small><br>
+        <img src="https://img.shields.io/badge/Tech-MERN%2C%20JWT-43853D?style=flat-square&logo=node.js&logoColor=white" /><br>
+        [![Repo](https://img.shields.io/badge/Repo-%F0%9F%9A%80-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username/course-selling-app)
       </td>
     </tr>
   </table>
@@ -112,104 +146,97 @@ Based in Greater Noida, India. Open to collaborations on AI-driven projects!
 
 ---
 
-### 🛠️ Tech Stack & Skills
-#### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-#### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & Databases
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
-
-#### AI/ML
-![LangChain](https://img.shields.io/badge/LangChain-FF6B35?style=for-the-badge&logo=langchain&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FF6B35?style=for-the-badge&logo=huggingface&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6B35?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![ChromaDB](https://img.shields.io/badge/ChromaDB-0D1117?style=for-the-badge&logo=chromadb&logoColor=white)
-
-#### Tools & DevOps
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
----
-
-### 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-*Gautam Buddha University* | 2022 – 2026  
-- CGPA: [Your CGPA] / 10.0  
-- Relevant Coursework: AI/ML, Data Structures, Web Development, Cloud Computing  
-
----
-
-### 📜 Certifications
-- ![Google Cloud GenAI](https://img.shields.io/badge/Google%20Cloud-GenAI-blue?style=for-the-badge&logo=google-cloud&logoColor=white) [Link](https://www.cloudskillsboost.google/)  
-- ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Cloud%20Practitioner-orange?style=for-the-badge&logo=amazon-aws&logoColor=white) [Link](https://aws.amazon.com/certification/)  
-- ![Deloitte Tech Forage](https://img.shields.io/badge/Deloitte-Tech%20Forage-0070D2?style=for-the-badge&logo=deloitte&logoColor=white) [Link](https://www.theforage.com/)  
-- ![Walmart SWE Forage](https://img.shields.io/badge/Walmart-SWE%20Forage-2774E0?style=for-the-badge&logo=walmart&logoColor=white) [Link](https://www.theforage.com/)  
-- ![HP Life Generative AI](https://img.shields.io/badge/HP%20Life-GenAI-purple?style=for-the-badge&logo=hp&logoColor=white) [Link](https://www.life-global.org/)  
-- ![Postman API](https://img.shields.io/badge/Postman-API-blue?style=for-the-badge&logo=postman&logoColor=white) [Link](https://www.postman.com/)  
-
-<!-- Replace with actual certification links where available -->
-
----
-
-### 📊 GitHub Stats
+### 🛠️ Tech Arsenal
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%" />
-</div>
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=72897&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <table border="0" cellspacing="5">
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Languages-Python%2C%20C%2B%2B%2C%20JS%2C%20TS-3776AB?style=flat&logo=python&logoColor=white" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Frontend-React%2C%20Next.js%2C%20Tailwind-61DAFB?style=flat&logo=react&logoColor=black" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Backend-Node.js%2C%20Express%2C%20MongoDB-43853D?style=flat&logo=node.js&logoColor=white" /></td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/AI%2FML-LangChain%2C%20HF%2C%20TF%2C%20PyTorch-FF6B35?style=flat&logo=tensorflow&logoColor=white" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/DB-Firebase%2C%20ChromaDB-FFCA28?style=flat&logo=firebase&logoColor=black" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/Tools-Git%2C%20Postman%2C%20Vercel-00C7B7?style=flat&logo=git&logoColor=white" /></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🎓 Academic Path
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-bg=true&no-frame=true" alt="Trophies" />
+  <img src="https://img.shields.io/badge/B.Tech%20CSE-%282022–2026%29-20232A?style=for-the-badge&logo=graduation-cap&logoColor=white" />
+  <br>*Gautam Buddha University* | CGPA: [Your CGPA]/10.0
+  <br><small>Key Courses: AI/ML, DSA, Web Dev, Cloud Computing</small>
 </div>
 
 ---
 
-### 📰 Latest Activity
-<!-- Add dynamic blog posts if you have a blog; otherwise, update manually -->
-- 🚀 Enhancing Generative AI + MERN projects for production deployment.  
-- 📝 Drafting articles on RAG optimization and AI ethics.  
-- 🔍 Diving deep into multimodal AI and vector databases.  
-- 🌟 Recently starred: [Project Name](https://github.com/example/project)  
+### 📜 Achievements & Certs
+<div align="center">
+  <img src="https://img.shields.io/badge/Certifications-6%2B-0D1117?style=for-the-badge&logo=certificate&logoColor=white" />
+  <br><br>
+  <table border="0" cellspacing="10">
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Google%20Cloud-GenAI-4285F4?style=flat&logo=google-cloud&logoColor=white" /> [View](https://www.cloudskillsboost.google/)</td>
+      <td align="center"><img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=flat&logo=amazon-aws&logoColor=white" /> [View](https://aws.amazon.com/certification/)</td>
+      <td align="center"><img src="https://img.shields.io/badge/Deloitte-Tech%20Forage-0070D2?style=flat&logo=deloitte&logoColor=white" /> [View](https://www.theforage.com/)</td>
+    </tr>
+    <tr>
+      <td align="center"><img src="https://img.shields.io/badge/Walmart-SWE%20Forage-2774E0?style=flat&logo=walmart&logoColor=white" /> [View](https://www.theforage.com/)</td>
+      <td align="center"><img src="https://img.shields.io/badge/HP%20Life-GenAI-0096D6?style=flat&logo=hp&logoColor=white" /> [View](https://www.life-global.org/)</td>
+      <td align="center"><img src="https://img.shields.io/badge/Postman-API-FF6C37?style=flat&logo=postman&logoColor=white" /> [View](https://www.postman.com/)</td>
+    </tr>
+  </table>
+</div>
 
 ---
 
-### 🤝 Let's Connect!
-<p align="center">
-  <em>I'm always up for chatting about AI innovations, full-stack challenges, or coffee breaks! ☕</em>
-</p>
-<p align="center">
-  <a href="mailto:kunalsingh203001@gmail.com">📧 Email Me</a> •
-  <a href="https://www.linkedin.com/in/kunal-singh-454368289">💼 LinkedIn</a> •
-  <a href="https://twitter.com/your-twitter">🐦 Twitter</a> <!-- Add if you have -->
-</p>
+### 📊 GitHub Galaxy
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=radical&hide_border=true&title_color=0EA5E9&text_color=FFFFFF&bg_color=0D1117&hide=issues,prs" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact&theme=radical&hide_border=true&title_color=0EA5E9&bg_color=0D1117" width="41%" />
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=72897&theme=radical&hide_border=true&background=0D1117&border=0EA5E9&dates=FFFFFF" alt="Streak" />
+  <br><br>
+  <!-- Contribution Snake: Add to your repo via GitHub Actions -->
+  <img src="https://github-readme-stats.vercel.app/api?username=72897&show=calendar&theme=radical" alt="Calendar" />
+</div>
+
+---
+
+### 🏆 Hall of Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=72897&theme=radical&margin-w=15&margin-h=15&column=8&no-bg=true&no-frame=true&title=CodeTrophies,Rocket" />
+</div>
+
+---
+
+### 📰 Pulse: Latest Vibes
+- 🚀 Polishing GenAI + MERN stacks for enterprise-grade deploys.  
+- 📝 Crafting deep-dives on RAG & multimodal AI for my blog.  
+- 🔍 Experimenting with vector DBs & ethical AI frameworks.  
+- 🌟 Shoutout: Starred [Awesome-LangChain](https://github.com/makcedward/nlpaug) for next experiments!  
+
+<!-- For dynamic updates: Use GitHub Actions to auto-fetch from RSS/blog -->
+
+---
+
+### 🤝 Connect & Collaborate
+<div align="center">
+  <img src="https://img.shields.io/badge/Let's%20Chat!-AI%2C%20Dev%2C%20or%20Coffee-EA4B2A?style=for-the-badge&logo=coffee&logoColor=white" />
+  <br><br>
+  <em>Excited about AI innovations? Full-stack puzzles? Or just a virtual ☕? Hit me up!</em>
+  <br><br>
+  <a href="mailto:kunalsingh203001@gmail.com"><img src="https://img.shields.io/badge/Email-Me%20Now-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kunal-singh-454368289"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=flat&logo=twitter&logoColor=white" /></a> <!-- Add handle -->
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Thanks%20for%20visiting!-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="Thanks" />
+  <img src="https://img.shields.io/badge/⭐%20Star%20My%20Repos!-They%20Fuel%20My%20Fire-0EA5E9?style=for-the-badge&logo=star&logoColor=yellow" alt="Star Call" />
+  <br><small><i>This cosmos evolves—last supernova: November 15, 2025 🚀</i></small>
 </div>
-
-<!-- Star History Widget: https://github.com/anuraghazra/github-readme-stats -->
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/pin/?username=72897&repo=your-repo&theme=tokyonight" /></div> <!-- Optional: Add for specific repo -->
-
-*This profile is a living document—updated regularly to reflect my evolving journey in tech! Last updated: November 2025*

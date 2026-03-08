@@ -183,16 +183,9 @@ Tech
 # 🧩 LeetCode Stats
 
 <p align="center">
-<img src="https://leetcard.jacoblin.cool/kunal26_7?theme=dark&font=JetBrains%20Mono"/>
+<img src="https://leetcard.jacoblin.cool/kunal26_7?ext=heatmap&theme=dark" width="700"/>
 </p>
 
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&no-frame=true&column=7"/>
-</p>
 
 ---
 

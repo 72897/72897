@@ -1,118 +1,231 @@
-<!-- Profile Header -->
-<h1 align="center">Hi, I'm Kunal Singh 👋</h1>
+<!-- HEADER BANNER -->
 
 <p align="center">
-  <a href="mailto:kunalsingh203001@gmail.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/kunal-singh-454368289">🔗 LinkedIn</a> •
-  <a href="https://github.com/72897">🐙 GitHub</a> •
-  <a href="https://leetcode.com/u/kunal26_7/">🧩 LeetCode</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Kunal%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
 </p>
+
+<!-- TYPING ANIMATION -->
 
 <p align="center">
-  <em>Final-year B.Tech CSE @ Gautam Buddha University<br>
-  Generative AI Engineer | MERN Stack Developer | Building real-world AI-first applications</em>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;Full+Stack+Developer;MERN+Stack+Specialist;Building+AI-powered+Applications;Open+Source+Enthusiast" />
 </p>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=72897&style=flat-square&color=blue&label=Profile+Views" alt="Profile views"/>
-</div>
 
 ---
 
-### 🔭 What I'm Currently Working On
-- Advanced **Generative AI** systems (RAG pipelines, prompt engineering, embeddings, LLM evaluation & fine-tuning)
-- Full-stack **AI-integrated** web apps with **Next.js 14+**, **Node.js**, **MongoDB**, **Firebase**
-- Production-grade AI features: speed, cost, accuracy, and user experience
+# 👋 About Me
 
-### 💼 Professional Experience
-**Engineering Intern — Thales, Noida**  
-*Jun 2025 – Jul 2025*  
-- Engineered a **Generative AI pipeline** (Gemini + OpenAI) → **+30%** relevance, **-25%** latency  
-- Delivered production-ready capstone demo + comprehensive documentation
+🎓 **B.Tech CSE — Gautam Buddha University (2022-2026)**
+💻 **Generative AI Engineer & MERN Stack Developer**
+🚀 Passionate about building **AI-first applications**
 
-**Full-Stack Developer Intern — MI Matdar**  
-*Feb 2025 – Apr 2025*  
-- Developed responsive **React + Tailwind** frontend (lazy loading, 5+ major UI/UX improvements)  
-- Optimized backend APIs → **~40%** faster responses, **95%** test coverage  
-- Designed efficient **MongoDB** schemas → **~35%** better query performance
+* 🤖 Building **RAG systems & LLM applications**
+* ⚡ Creating **production-ready AI web apps**
+* 🧠 Exploring **embeddings, vector DBs, AI agents**
+* 💼 Former **Engineering Intern @ Thales India**
+* 🌱 Currently learning **scaling AI systems**
 
-### 🚀 Featured Projects
-| Project | Description | Tech | Link |
-|-------|-------------|------|------|
-| **StudyMate** | AI-powered PDF Q&A assistant with RAG (ChromaDB) → ~40% faster learning | LangChain, Hugging Face, Next.js | [Live Demo](https://huggingface.co/spaces/kunal267/StudyMate) |
-| **Travel Planner** | Intelligent AI trip itinerary generator → ~70% less planning time | Gemini/OpenAI, React | [Live Demo](https://huggingface.co/spaces/kunal267/Travel_Planner) |
-| **AlphaCare** | 100% voice-enabled healthcare chatbot → +45% user engagement | Speech-to-Text, Next.js, Vercel | [Live Demo](https://alpha-care.vercel.app/) |
-| **Course Selling App** | Full-featured platform with role-based dashboards, JWT auth, optimized APIs | MERN Stack, TypeScript | [Live Demo](https://studynotion-course.vercel.app/) |
+---
 
-### 🛠️ Tech Stack
-**Languages**  
-Python · C++ · TypeScript · JavaScript
+# 🌐 Connect With Me
 
-**Frontend**  
-React · Next.js · Tailwind CSS
+<p align="center">
 
-**Backend & Databases**  
-Node.js · Express · MongoDB · Firebase · REST & GraphQL APIs
+<a href="mailto:kunalsingh203001@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**AI / ML**  
-LangChain · Hugging Face · OpenAI / Gemini · RAG · ChromaDB · TensorFlow · PyTorch
+<a href="https://www.linkedin.com/in/kunal-singh-454368289">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-**Tools & Platforms**  
-Git · GitHub · Vercel · Netlify · Postman · Docker basics
+<a href="https://github.com/72897">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-### 🎓 Education
-**B.Tech in Computer Science & Engineering**  
-Gautam Buddha University  
+<a href="https://leetcode.com/u/kunal26_7/">
+<img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+# 💼 Experience
+
+### 🏢 Engineering Intern — Thales India
+
+📍 Noida | Jun 2025 – Jul 2025
+
+* Built **Generative AI pipeline (Gemini + OpenAI)**
+* Improved response relevance **+30%**
+* Reduced latency **~25%**
+* Delivered production-ready **AI capstone demo**
+
+---
+
+### 💻 Full Stack Developer Intern — MI Matdar
+
+* Built responsive **React + Tailwind UI**
+* Optimized backend APIs → **~40% faster**
+* Improved **MongoDB query performance**
+
+---
+
+# 🚀 Featured Projects
+
+### 🧠 StudyMate
+
+AI-powered **PDF Q&A assistant**
+
+Tech Stack
+`LangChain` `HuggingFace` `ChromaDB` `Next.js`
+
+🔗 https://huggingface.co/spaces/kunal267/StudyMate
+
+---
+
+### ✈️ Travel Planner
+
+AI-based **trip itinerary generator**
+
+Tech Stack
+`Gemini` `OpenAI` `React`
+
+🔗 https://huggingface.co/spaces/kunal267/Travel_Planner
+
+---
+
+### 🏥 AlphaCare
+
+Voice-enabled **AI healthcare assistant**
+
+Tech Stack
+`Next.js` `Gemini` `Speech-to-Text`
+
+🔗 https://alpha-care.vercel.app/
+
+---
+
+### 📚 StudyNotion
+
+Full-stack **course platform**
+
+Tech Stack
+`MERN` `JWT` `TypeScript`
+
+🔗 https://studynotion-course.vercel.app/
+
+---
+
+# 🛠️ Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,js,ts"/>
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css"/>
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase"/>
+</p>
+
+### AI / ML
+
+<p>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vercel,netlify,postman,docker,vscode"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=72897&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=72897&theme=tokyo-night"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
+</p>
+
+---
+
+# 🧩 LeetCode Stats
+
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/kunal26_7?theme=dark&font=JetBrains%20Mono"/>
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg"/>
+</p>
+
+---
+
+# 📜 Certifications
+
+* Google Cloud Generative AI
+* AWS Cloud Practitioner
+* Deloitte Technology Job Simulation
+* Walmart Global Tech SWE
+* HP LIFE Generative AI
+* Postman API Fundamentals
+
+---
+
+# 🎓 Education
+
+**B.Tech Computer Science & Engineering**
+Gautam Buddha University
 2022 – 2026
 
-### 📜 Certifications
-- Google Cloud Generative AI  
-- AWS Certified Cloud Practitioner  
-- Deloitte Technology (Forage)  
-- Walmart Global Tech SWE (Forage)  
-- HP LIFE Generative AI  
-- Postman API Fundamentals
-
-### 🏅 Competitive Programming
-**LeetCode** — [kunal26_7](https://leetcode.com/u/kunal26_7/)
+---
 
 <p align="center">
-  <!-- Basic stats card -->
-  <img src="https://leetcard.jacoblin.cool/kunal26_7?theme=nord&font=IBM%20Plex%20Mono" alt="LeetCode Stats Card" width="500"/>
+
+⭐ **If you like my work, consider starring my repositories!**
+
 </p>
 
 <p align="center">
-  <!-- Heatmap extension – shows your LeetCode submission activity like GitHub contrib graph -->
-  <img src="https://leetcard.jacoblin.cool/kunal26_7?ext=heatmap&theme=nord" alt="LeetCode Heatmap (Last ~52 weeks)" width="500"/>
-</p>
-
-**Customization options you can try (just change the URL params):**
-- Theme: `nord`, `dark`, `light`, `dracula`, `monokai`, `github`, etc.
-- Font: `IBM Plex Mono`, `Fira Code`, `JetBrains Mono`, etc.
-- Remove `&font=...` if you want default font
-- Add `&hide=easy,medium,hard` if you want to hide difficulty counts (optional)
-
-### 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=72897&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=72897&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="40%"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=72897&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies"/>
-</p>
-
-### 📰 Latest Activity
-- 🚀 Building next-gen Generative AI + MERN projects  
-- 📝 Writing deep-dives on RAG, embeddings, multimodal models & cloud deployment  
-- 🔍 Experimenting with prompt optimization, agentic workflows & production AI
-
-<p align="center">
-  <strong>⭐️ If you find my projects useful, please consider starring them!</strong><br>
-  Thanks for stopping by — let's connect and build something amazing! 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
 </p>

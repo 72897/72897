@@ -70,19 +70,7 @@
 ### 📜 Certifications
 Google Cloud GenAI | AWS Cloud Practitioner | Deloitte Tech (Forage) | Walmart SWE (Forage) | HP Life Generative AI | Postman API  
 
----
 
-### 🏅 Competitive Programming
-**LeetCode** — [kunal26_7](https://leetcode.com/u/kunal26_7/)  
-
-<!-- You can replace the username in the URL below if you want a different theme -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/kunal26_7?theme=nord&font=IBM%20Plex%20Mono" alt="LeetCode Stats Card" width="500"/>
-</p>
-
-*(Alternative popular card — feel free to swap: https://github.com/KnlnKS/leetcode-stats)*  
-```markdown
-<img src="https://leetcode-stats-six.vercel.app/api?username=kunal26_7&theme=dark" alt="LeetCode Stats"/>
 
 ---
 

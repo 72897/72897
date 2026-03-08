@@ -1,28 +1,33 @@
-<!-- HEADER BANNER -->
+<!-- Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=200&section=header&text=Kunal%20Singh&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kunal%20Singh&fontSize=55&fontAlignY=35&animation=fadeIn&fontColor=ffffff"/>
 </p>
 
-<!-- TYPING ANIMATION -->
+<!-- Typing animation -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=Generative+AI+Engineer;Full+Stack+Developer;MERN+Stack+Specialist;Building+AI-powered+Applications;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Generative+AI+Engineer;Full+Stack+Developer;MERN+Stack+Specialist;Building+AI-powered+Applications;Open+Source+Enthusiast"/>
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=72897&style=for-the-badge&color=blue"/>
 </p>
 
 ---
 
-# 👋 About Me
+# 👨‍💻 About Me
 
-🎓 **B.Tech CSE — Gautam Buddha University (2022-2026)**
-💻 **Generative AI Engineer & MERN Stack Developer**
-🚀 Passionate about building **AI-first applications**
+🎓 **B.Tech Computer Science — Gautam Buddha University (2022-2026)**
+💻 **Generative AI Engineer | MERN Stack Developer**
 
-* 🤖 Building **RAG systems & LLM applications**
-* ⚡ Creating **production-ready AI web apps**
+I enjoy building **AI-first products** that combine **LLMs + scalable web applications**.
+
+* 🤖 Building **RAG pipelines & LLM applications**
 * 🧠 Exploring **embeddings, vector DBs, AI agents**
+* ⚡ Developing **production-ready AI systems**
 * 💼 Former **Engineering Intern @ Thales India**
-* 🌱 Currently learning **scaling AI systems**
+* 🌱 Currently focused on **Generative AI engineering**
 
 ---
 
@@ -56,28 +61,28 @@
 
 📍 Noida | Jun 2025 – Jul 2025
 
-* Built **Generative AI pipeline (Gemini + OpenAI)**
+* Built **Generative AI pipeline using Gemini + OpenAI**
 * Improved response relevance **+30%**
 * Reduced latency **~25%**
-* Delivered production-ready **AI capstone demo**
+* Delivered **AI-powered capstone project**
 
 ---
 
 ### 💻 Full Stack Developer Intern — MI Matdar
 
-* Built responsive **React + Tailwind UI**
-* Optimized backend APIs → **~40% faster**
-* Improved **MongoDB query performance**
+* Built responsive **React + Tailwind frontend**
+* Improved backend performance **~40%**
+* Designed efficient **MongoDB schemas**
 
 ---
 
-# 🚀 Featured Projects
+# 🤖 AI / Generative AI Projects
 
 ### 🧠 StudyMate
 
-AI-powered **PDF Q&A assistant**
+AI-powered **PDF Q&A assistant using RAG**
 
-Tech Stack
+Tech
 `LangChain` `HuggingFace` `ChromaDB` `Next.js`
 
 🔗 https://huggingface.co/spaces/kunal267/StudyMate
@@ -86,9 +91,9 @@ Tech Stack
 
 ### ✈️ Travel Planner
 
-AI-based **trip itinerary generator**
+AI-powered **trip itinerary generator**
 
-Tech Stack
+Tech
 `Gemini` `OpenAI` `React`
 
 🔗 https://huggingface.co/spaces/kunal267/Travel_Planner
@@ -99,8 +104,8 @@ Tech Stack
 
 Voice-enabled **AI healthcare assistant**
 
-Tech Stack
-`Next.js` `Gemini` `Speech-to-Text`
+Tech
+`Next.js` `Speech-to-Text` `Gemini`
 
 🔗 https://alpha-care.vercel.app/
 
@@ -108,16 +113,16 @@ Tech Stack
 
 ### 📚 StudyNotion
 
-Full-stack **course platform**
+Full-stack **course selling platform**
 
-Tech Stack
+Tech
 `MERN` `JWT` `TypeScript`
 
 🔗 https://studynotion-course.vercel.app/
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
 ### Languages
 
@@ -162,25 +167,15 @@ Tech Stack
 </p>
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=72897&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
 
-# 📈 Contribution Activity
+# 📈 GitHub Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=72897&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Achievements
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=7"/>
 </p>
 
 ---
@@ -189,6 +184,14 @@ Tech Stack
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/kunal26_7?theme=dark&font=JetBrains%20Mono"/>
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=72897&theme=tokyonight&no-frame=true&column=7"/>
 </p>
 
 ---
@@ -221,11 +224,9 @@ Gautam Buddha University
 ---
 
 <p align="center">
-
-⭐ **If you like my work, consider starring my repositories!**
-
+⭐ If you find my projects useful, consider starring them!
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f2fe,100:4facfe&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
 </p>

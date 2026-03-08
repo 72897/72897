@@ -1,9 +1,11 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Kunal Singh 👋</h1>
+
 <p align="center">
-  <a href="mailto:kunalsingh203001@gmail.com">Email</a> •
-  <a href="https://www.linkedin.com/in/kunal-singh-454368289">LinkedIn</a> •
-  <a href="https://github.com/72897">GitHub</a>
+  <a href="mailto:kunalsingh203001@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/kunal-singh-454368289">🔗 LinkedIn</a> •
+  <a href="https://github.com/72897">🐙 GitHub</a> •
+  <a href="https://leetcode.com/u/kunal26_7/">🧩 LeetCode</a>
 </p>
 
 <p align="center">
@@ -67,6 +69,20 @@
 
 ### 📜 Certifications
 Google Cloud GenAI | AWS Cloud Practitioner | Deloitte Tech (Forage) | Walmart SWE (Forage) | HP Life Generative AI | Postman API  
+
+---
+
+### 🏅 Competitive Programming
+**LeetCode** — [kunal26_7](https://leetcode.com/u/kunal26_7/)  
+
+<!-- You can replace the username in the URL below if you want a different theme -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/kunal26_7?theme=nord&font=IBM%20Plex%20Mono" alt="LeetCode Stats Card" width="500"/>
+</p>
+
+*(Alternative popular card — feel free to swap: https://github.com/KnlnKS/leetcode-stats)*  
+```markdown
+<img src="https://leetcode-stats-six.vercel.app/api?username=kunal26_7&theme=dark" alt="LeetCode Stats"/>
 
 ---
 
